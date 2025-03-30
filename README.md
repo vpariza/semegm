@@ -99,7 +99,7 @@ Our work and repository:
       author = {Pariza, Valentinos},
       month = {3},
       title = {Simple Semantic Segmentation for Vision Encoders},
-      url = {},
+      url = {https://github.com/vpariza/semegm},
       year = {2025}
 }
 ```
